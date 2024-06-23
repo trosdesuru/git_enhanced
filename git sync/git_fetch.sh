@@ -6,9 +6,9 @@
 # github : https://github.com/trosdesuru
 
 # Configuration
-remote_repo="https://github.com/trosdesuru/isdi-bootcamp-202405.git"
-remote_name="origin"
-local_branches=("develop" "feature/playground" "feature/ponies" "main")
+remote_repo="" # INSERT REMOTE REPO HERE! example: "https://github.com/trosdesuru/git_enhanced.git"
+remote_name="" # INSERT REMOTE NAME HERE! example: "origin"
+local_branches=("") # INSERT ALL YOUR LOCAL BRANCHES HERE! example: "main"
 verbose=false
 
 # Color definitions
