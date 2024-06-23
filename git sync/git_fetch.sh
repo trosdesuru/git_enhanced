@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-# program name: sync_git.sh
+# program name: git_fetch.sh
 # version control: version 2.0
 # author: trosdesuru - Eduard Hernández
 # github : https://github.com/trosdesuru

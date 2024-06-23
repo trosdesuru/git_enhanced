@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-# program name: status_all_branches.sh
+# program name: git_status.sh
 # version control: version 2.0
 # author: trosdesuru - Eduard Hernández
 # github : https://github.com/trosdesuru
